@@ -12,7 +12,7 @@ export default function App() {
     setData(data);
     setFiltered(data);
   }
-
+ // comment
   useEffect(()=>{
    let filter = data.filter((user)=>(
      user.name.toLowerCase().includes(searchValue.toLowerCase())
