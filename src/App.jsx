@@ -2,7 +2,7 @@ export default function App(){
 
   return(
     <>
-    <h1>From  main branches</h1>
+    <h1>From  Development branches</h1>
     </>
   )
   
